@@ -22,8 +22,8 @@ This repository documents my methodology in **Threat Detection**, **Malware Tria
 | Category | Tools & Frameworks |
 | :--- | :--- |
 | **Standards** | MITRE ATT&CK, Pyramid Of Pain, Cyber Kill Chain, Unified Kill Chain |
-| **Forensics** | Phishing Analysis, Wireshark, Snort |
-| **Defensive** | Splunk (SPL), Elastic (ELK) Stack, SOAR |
+| **Forensics** | Phishing Analysis, ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white), ![Snort](https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=snort&logoColor=white) |
+| **Defensive** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white) ![SOAR](https://img.shields.io/badge/SOAR-4285F4?style=for-the-badge&logo=automationanywhere&logoColor=white) |
 | **Endpoint Monitoring** |	Windows Event Logs, Linux Syslog/Auditd, Web Server Logs (IIS/Apache)
 ---
 ### 🔗 Connect & Contact

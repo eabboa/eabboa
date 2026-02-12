@@ -5,7 +5,7 @@
 
 **Location:** Türkiye (Focus on KVKK Compliance & USOM Guidelines)
 
-**Status:** Open for opportunities
+**Status:** In Training / Open for opportunities
 
 ---
 ## 🚀 Repository Focus

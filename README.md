@@ -29,3 +29,4 @@ This repository documents my methodology in **Threat Detection**, **Malware Tria
 ### 🔗 Connect & Contact
 * **LinkedIn:** [Enes Arda Baydaş](https://www.linkedin.com/in/enesardabaydas/)
 * **Email:** [enesardabaydas@gmail.com](mailto:enesardabaydas@gmail.com)
+* **TryHackMe** [zink.](https://tryhackme.com/p/zink.)

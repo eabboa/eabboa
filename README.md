@@ -13,15 +13,6 @@ Turkey | Actively seeking a SOC Analyst internship.
 ## About Me
 First-year Management Information Systems student at Marmara University developing foundational skills in cybersecurity **threat detection**, **malware triage**, and **log analysis**.
 
-
-## Lab Exercises & Security Write-ups
-Unlike standard academic notes, these are structured as **Field Intelligence Reports** demonstrating actionable defense capabilities.
-
-```
-<!-- PORTFOLIO:START -->
-<!-- PORTFOLIO:END -->
-```
-
 ## Technical Arsenal
 | Category | Tools & Frameworks |
 | :--- | :--- |
@@ -30,6 +21,9 @@ Unlike standard academic notes, these are structured as **Field Intelligence Rep
 | **SIEM & Log Management** | Splunk (SPL), Elastic (ELK) |
 | **Endpoint Monitoring** |	Windows Event Logs
 ---
+
+## Lab Exercises & Security Write-ups
+Unlike standard academic notes, these are structured as **Field Intelligence Reports** demonstrating actionable defense capabilities.
 
 <!-- PORTFOLIO:START -->
 

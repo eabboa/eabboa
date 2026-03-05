@@ -29,16 +29,16 @@ Unlike standard academic notes, these are structured as **Field Intelligence Rep
 
 * **[Malware-Analysis](./Malware-Analysis/)**
   * *Static & Dynamic triage of obfuscated payloads (e.g., Cryptbot, Loaders). IOC extraction and MITRE ATT&CK mapping.*
-  * [Agent Tesla Vba Dropper](./Malware-Analysis/Agent_Tesla_VBA_Dropper.md) — ***Date:** 2026-03-02*
-  * [Wannacry Memory Forensics Analysis](./Malware-Analysis/WannaCry_Memory_Forensics_Analysis.md) — ***Date:** 2026-02-18*
+  * [Agent Tesla Vba Dropper](./Malware-Analysis/Agent_Tesla_VBA_Dropper.md)
+  * [Wannacry Memory Forensics Analysis](./Malware-Analysis/WannaCry_Memory_Forensics_Analysis.md)
 
 * **[Network-Forensics](./Network-Forensics/)**
   * *PCAP analysis, C2 traffic identification, and protocol abuse detection.*
-  * [Arp Spoofing Competing Mitm Analysis](./Network-Forensics/ARP_Spoofing_Competing_MITM_Analysis.md) — ***Date:** 2026-02-20*
-  * [Triage Of Local Dns Spoofing Activity](./Network-Forensics/Triage_of_Local_DNS_Spoofing_Activity.md) — ***Date:** 2026-03-04*
+  * [Arp Spoofing Competing Mitm Analysis](./Network-Forensics/ARP_Spoofing_Competing_MITM_Analysis.md)
+  * [Triage Of Local Dns Spoofing Activity](./Network-Forensics/Triage_of_Local_DNS_Spoofing_Activity.md)
 
 * **[SIEM-Hunting](./SIEM-Hunting/)**
   * *Splunk/ELK queries, Sigma rules, and brute-force detection.*
-  * [Ai As C2 Theoretical Analysis](./SIEM-Hunting/AI_as_C2_Theoretical_Analysis.md) — ***Date:** 2026-02-21*
+  * [Ai As C2 Theoretical Analysis](./SIEM-Hunting/AI_as_C2_Theoretical_Analysis.md)
 
 <!-- PORTFOLIO:END -->

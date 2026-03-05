@@ -87,8 +87,7 @@ def render_entries(entries: list[dict], depth: int = 2) -> list[str]:
             lines.append(f"{indent}* **[{name}](./{link_path}/)**")
             lines.extend(render_entries(e["children"], depth + 1))
         else:
-            desc = f" — *{e['desc']}*" if e.get("desc") else ""
-            lines.append(f"{indent}* [{name}](./{link_path}){desc}")
+            lines.append(f"{indent}* [{name}](./{link_path})")
     return lines
 
 # ── Core ──────────────────────────────────────────────────────────────────────

@@ -17,7 +17,7 @@ First-year Management Information Systems student at Marmara University developi
 | Category | Tools & Frameworks |
 | :--- | :--- |
 | **Security Frameworks** | MITRE ATT&CK®, MITRE D3FEND™, Cyber Kill Chain, Unified Kill Chain |
-| **Network Traffic Analysis** | Wireshark, Snort, NetworkMiner, Zeek |
+| **Network Traffic Analysis** | Wireshark, Snort, NetworkMiner, Zeek, Brim |
 | **SIEM & Log Management** | Splunk (SPL), Elastic (ELK) |
 | **Endpoint Monitoring** |	Windows Event Logs
 ---

@@ -19,7 +19,7 @@ First-year Management Information Systems student at Marmara University developi
 | **Security Frameworks** | MITRE ATT&CK®, MITRE D3FEND™, Cyber Kill Chain, Unified Kill Chain |
 | **Network Traffic Analysis** | Wireshark, Snort, NetworkMiner, Zeek, Brim |
 | **SIEM & Log Management** | Splunk (SPL), Elastic (ELK) |
-| **Endpoint Monitoring** |	Windows Event Logs
+| **Endpoint Monitoring** |	Windows Event Logs & Sysmon
 ---
 
 ## Lab Exercises & Security Write-ups

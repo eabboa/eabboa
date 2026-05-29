@@ -1,8 +1,8 @@
 <h1 align="center">Enes Arda Baydaş</h1>
-<h3 align="center">SOC Analyst Candidate | Building Detection & DFIR Labs</h3>
+<h3 align="center">Working on enterprise-grade AI Security Automations</h3>
 
 <p align="center">
-Istanbul, Türkiye | Available for Tier 1 SOC Analyst Internship
+Istanbul, Türkiye 
 </p>
 
 <p align="center">
